@@ -1,0 +1,3 @@
+git remote set-url origin https://lloydzedds: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@github.com/lloydzedds/Test.git
+
+git remote set-url origin https://youruser:tokenPassword@github.com/username/repo.git
