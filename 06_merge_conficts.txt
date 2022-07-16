@@ -8,6 +8,13 @@ rebase
 
 from develop
 
+<<<<<<< HEAD
 edit conflict
 
 
+=======
+
+Rebasse
+
+from masterr
+>>>>>>> a467d6b (conflict rebase created)
