@@ -10,9 +10,11 @@ from develop
 
 edit conflict
 
-
 Rebasse
 
 from masterr
 
 didnt edited commit
+
+conflict rebasew fix
+
